@@ -1,0 +1,304 @@
+ID,Age,Sex,Chest Pain Type,Resting BP,Cholestrol,Fasting Blood Sugar,restecg,Maximum HeartRate,Exercise Induced Angina,oldpeak,Slope,NumOf_Vessels_colored_by_flourosopy,Thal,Likelyhood
+1,63,MALE,Typical Angina,145,233,Yes,Ventricular Hypertrophy,150,No,2.3,Downsloping,0,Reversable Defect,Absent
+2,67,MALE,Asymptomatic,160,286,No,Ventricular Hypertrophy,108,Yes,1.5,Flat,3,Normal,Likely
+3,67,MALE,Asymptomatic,120,229,No,Ventricular Hypertrophy,129,Yes,2.6,Flat,2,Reversable Defect,Less Likely
+4,37,MALE,Non-Anginal,130,250,No,Normal,187,No,3.5,Downsloping,0,Reversable Defect,Absent
+5,41,FEMALE,Atypical Angina,130,204,No,Ventricular Hypertrophy,172,No,1.4,Upsloping,0,Reversable Defect,Absent
+6,56,MALE,Atypical Angina,120,236,No,Normal,178,No,0.8,Upsloping,0,Reversable Defect,Absent
+7,62,FEMALE,Asymptomatic,140,268,No,Ventricular Hypertrophy,160,No,3.6,Downsloping,2,Reversable Defect,Highly Likely
+8,57,FEMALE,Asymptomatic,120,354,No,Normal,163,Yes,0.6,Upsloping,0,Reversable Defect,Absent
+9,63,MALE,Asymptomatic,130,254,No,Ventricular Hypertrophy,147,No,1.4,Flat,1,Reversable Defect,Likely
+10,53,MALE,Asymptomatic,140,203,Yes,Ventricular Hypertrophy,155,Yes,3.1,Downsloping,0,Reversable Defect,Less Likely
+11,57,MALE,Asymptomatic,140,192,No,Normal,148,No,0.4,Flat,0,Reversable Defect,Absent
+12,56,FEMALE,Atypical Angina,140,294,No,Ventricular Hypertrophy,153,No,1.3,Flat,0,Reversable Defect,Absent
+13,56,MALE,Non-Anginal,130,256,Yes,Ventricular Hypertrophy,142,Yes,0.6,Flat,1,Reversable Defect,Likely
+14,44,MALE,Atypical Angina,120,263,No,Normal,173,No,0,Upsloping,0,Reversable Defect,Absent
+15,52,MALE,Non-Anginal,172,199,Yes,Normal,162,No,0.5,Upsloping,0,Reversable Defect,Absent
+16,57,MALE,Non-Anginal,150,168,No,Normal,174,No,1.6,Upsloping,0,Reversable Defect,Absent
+17,48,MALE,Atypical Angina,110,229,No,Normal,168,No,1,Downsloping,0,Reversable Defect,Less Likely
+18,54,MALE,Asymptomatic,140,239,No,Normal,160,No,1.2,Upsloping,0,Reversable Defect,Absent
+19,48,FEMALE,Non-Anginal,130,275,No,Normal,139,No,0.2,Upsloping,0,Reversable Defect,Absent
+20,49,MALE,Atypical Angina,130,266,No,Normal,171,No,0.6,Upsloping,0,Reversable Defect,Absent
+21,64,MALE,Typical Angina,110,211,No,Ventricular Hypertrophy,144,Yes,1.8,Flat,0,Reversable Defect,Absent
+22,58,FEMALE,Typical Angina,150,283,Yes,Ventricular Hypertrophy,162,No,1,Upsloping,0,Reversable Defect,Absent
+23,58,MALE,Atypical Angina,120,284,No,Ventricular Hypertrophy,160,No,1.8,Flat,0,Reversable Defect,Less Likely
+24,58,MALE,Non-Anginal,132,224,No,Ventricular Hypertrophy,173,No,3.2,Upsloping,2,Reversable Defect,Highly Likely
+25,60,MALE,Asymptomatic,130,206,No,Ventricular Hypertrophy,132,Yes,2.4,Flat,2,Reversable Defect,Present
+26,50,FEMALE,Non-Anginal,120,219,No,Normal,158,No,1.6,Flat,0,Reversable Defect,Absent
+27,58,FEMALE,Non-Anginal,120,340,No,Normal,172,No,0,Upsloping,0,Reversable Defect,Absent
+28,66,FEMALE,Typical Angina,150,226,No,Normal,114,No,2.6,Downsloping,0,Reversable Defect,Absent
+29,43,MALE,Asymptomatic,150,247,No,Normal,171,No,1.5,Upsloping,0,Reversable Defect,Absent
+30,40,MALE,Asymptomatic,110,167,No,Ventricular Hypertrophy,114,Yes,2,Flat,0,Reversable Defect,Highly Likely
+31,69,FEMALE,Typical Angina,140,239,No,Normal,151,No,1.8,Upsloping,2,Reversable Defect,Absent
+32,60,MALE,Asymptomatic,117,230,Yes,Normal,160,Yes,1.4,Upsloping,2,Reversable Defect,Likely
+33,64,MALE,Non-Anginal,140,335,No,Normal,158,No,0,Upsloping,0,Reversable Defect,Less Likely
+34,59,MALE,Asymptomatic,135,234,No,Normal,161,No,0.5,Flat,0,Reversable Defect,Absent
+35,44,MALE,Non-Anginal,130,233,No,Normal,179,Yes,0.4,Upsloping,0,Reversable Defect,Absent
+36,42,MALE,Asymptomatic,140,226,No,Normal,178,No,0,Upsloping,0,Reversable Defect,Absent
+37,43,MALE,Asymptomatic,120,177,No,Ventricular Hypertrophy,120,Yes,2.5,Flat,0,Reversable Defect,Highly Likely
+38,57,MALE,Asymptomatic,150,276,No,Ventricular Hypertrophy,112,Yes,0.6,Flat,1,Reversable Defect,Less Likely
+39,55,MALE,Asymptomatic,132,353,No,Normal,132,Yes,1.2,Flat,1,Reversable Defect,Highly Likely
+40,61,MALE,Non-Anginal,150,243,Yes,Normal,137,Yes,1,Flat,0,Reversable Defect,Absent
+41,65,FEMALE,Asymptomatic,150,225,No,Ventricular Hypertrophy,114,No,1,Flat,3,Normal,Present
+42,40,MALE,Typical Angina,140,199,No,Normal,178,Yes,1.4,Upsloping,0,Reversable Defect,Absent
+43,71,FEMALE,Atypical Angina,160,302,No,Normal,162,No,0.4,Upsloping,2,Reversable Defect,Absent
+44,59,MALE,Non-Anginal,150,212,Yes,Normal,157,No,1.6,Upsloping,0,Reversable Defect,Absent
+45,61,FEMALE,Asymptomatic,130,330,No,Ventricular Hypertrophy,169,No,0,Upsloping,0,Reversable Defect,Less Likely
+46,58,MALE,Non-Anginal,112,230,No,Ventricular Hypertrophy,165,No,2.5,Flat,1,Reversable Defect,Present
+47,51,MALE,Non-Anginal,110,175,No,Normal,123,No,0.6,Upsloping,0,Reversable Defect,Absent
+48,50,MALE,Asymptomatic,150,243,No,Ventricular Hypertrophy,128,No,2.6,Flat,0,Reversable Defect,Present
+49,65,FEMALE,Non-Anginal,140,417,Yes,Ventricular Hypertrophy,157,No,0.8,Upsloping,1,Reversable Defect,Absent
+50,53,MALE,Non-Anginal,130,197,Yes,Ventricular Hypertrophy,152,No,1.2,Downsloping,0,Reversable Defect,Absent
+51,41,FEMALE,Atypical Angina,105,198,No,Normal,168,No,0,Upsloping,1,Reversable Defect,Absent
+52,65,MALE,Asymptomatic,120,177,No,Normal,140,No,0.4,Upsloping,0,Reversable Defect,Absent
+53,44,MALE,Asymptomatic,112,290,No,Ventricular Hypertrophy,153,No,0,Upsloping,1,Reversable Defect,Likely
+54,44,MALE,Atypical Angina,130,219,No,Ventricular Hypertrophy,188,No,0,Upsloping,0,Reversable Defect,Absent
+55,60,MALE,Asymptomatic,130,253,No,Normal,144,Yes,1.4,Upsloping,1,Reversable Defect,Less Likely
+56,54,MALE,Asymptomatic,124,266,No,Ventricular Hypertrophy,109,Yes,2.2,Flat,1,Reversable Defect,Less Likely
+57,50,MALE,Non-Anginal,140,233,No,Normal,163,No,0.6,Flat,1,Reversable Defect,Less Likely
+58,41,MALE,Asymptomatic,110,172,No,Ventricular Hypertrophy,158,No,0,Upsloping,0,Reversable Defect,Less Likely
+59,54,MALE,Non-Anginal,125,273,No,Ventricular Hypertrophy,152,No,0.5,Downsloping,1,Reversable Defect,Absent
+60,51,MALE,Typical Angina,125,213,No,Ventricular Hypertrophy,125,Yes,1.4,Upsloping,1,Reversable Defect,Absent
+61,51,FEMALE,Asymptomatic,130,305,No,Normal,142,Yes,1.2,Flat,0,Reversable Defect,Likely
+62,46,FEMALE,Non-Anginal,142,177,No,Ventricular Hypertrophy,160,Yes,1.4,Downsloping,0,Reversable Defect,Absent
+63,58,MALE,Asymptomatic,128,216,No,Ventricular Hypertrophy,131,Yes,2.2,Flat,3,Normal,Less Likely
+64,54,FEMALE,Non-Anginal,135,304,Yes,Normal,170,No,0,Upsloping,0,Reversable Defect,Absent
+65,54,MALE,Asymptomatic,120,188,No,Normal,113,No,1.4,Flat,1,Reversable Defect,Likely
+66,60,MALE,Asymptomatic,145,282,No,Ventricular Hypertrophy,142,Yes,2.8,Flat,2,Reversable Defect,Likely
+67,60,MALE,Non-Anginal,140,185,No,Ventricular Hypertrophy,155,No,3,Flat,0,Reversable Defect,Less Likely
+68,54,MALE,Non-Anginal,150,232,No,Ventricular Hypertrophy,165,No,1.6,Upsloping,0,Reversable Defect,Absent
+69,59,MALE,Asymptomatic,170,326,No,Ventricular Hypertrophy,140,Yes,3.4,Downsloping,0,Reversable Defect,Likely
+70,46,MALE,Non-Anginal,150,231,No,Normal,147,No,3.6,Flat,0,Reversable Defect,Less Likely
+71,65,FEMALE,Non-Anginal,155,269,No,Normal,148,No,0.8,Upsloping,0,Reversable Defect,Absent
+72,67,MALE,Asymptomatic,125,254,Yes,Normal,163,No,0.2,Flat,2,Reversable Defect,Highly Likely
+73,62,MALE,Asymptomatic,120,267,No,Normal,99,Yes,1.8,Flat,2,Reversable Defect,Less Likely
+74,65,MALE,Asymptomatic,110,248,No,Ventricular Hypertrophy,158,No,0.6,Upsloping,2,Reversable Defect,Less Likely
+75,44,MALE,Asymptomatic,110,197,No,Ventricular Hypertrophy,177,No,0,Upsloping,1,Reversable Defect,Less Likely
+76,65,FEMALE,Non-Anginal,160,360,No,Ventricular Hypertrophy,151,No,0.8,Upsloping,0,Reversable Defect,Absent
+77,60,MALE,Asymptomatic,125,258,No,Ventricular Hypertrophy,141,Yes,2.8,Flat,1,Reversable Defect,Less Likely
+78,51,FEMALE,Non-Anginal,140,308,No,Ventricular Hypertrophy,142,No,1.5,Upsloping,1,Reversable Defect,Absent
+79,48,MALE,Atypical Angina,130,245,No,Ventricular Hypertrophy,180,No,0.2,Flat,0,Reversable Defect,Absent
+80,58,MALE,Asymptomatic,150,270,No,Ventricular Hypertrophy,111,Yes,0.8,Upsloping,0,Reversable Defect,Highly Likely
+81,45,MALE,Asymptomatic,104,208,No,Ventricular Hypertrophy,148,Yes,3,Flat,0,Reversable Defect,Absent
+82,53,FEMALE,Asymptomatic,130,264,No,Ventricular Hypertrophy,143,No,0.4,Flat,0,Reversable Defect,Absent
+83,39,MALE,Non-Anginal,140,321,No,Ventricular Hypertrophy,182,No,0,Upsloping,0,Reversable Defect,Absent
+84,68,MALE,Non-Anginal,180,274,Yes,Ventricular Hypertrophy,150,Yes,1.6,Flat,0,Reversable Defect,Highly Likely
+85,52,MALE,Atypical Angina,120,325,No,Normal,172,No,0.2,Upsloping,0,Reversable Defect,Absent
+86,44,MALE,Non-Anginal,140,235,No,Ventricular Hypertrophy,180,No,0,Upsloping,0,Reversable Defect,Absent
+87,47,MALE,Non-Anginal,138,257,No,Ventricular Hypertrophy,156,No,0,Upsloping,0,Reversable Defect,Absent
+88,53,FEMALE,Non-Anginal,128,216,No,Ventricular Hypertrophy,115,No,0,Upsloping,0,Reversable Defect,Absent
+89,53,FEMALE,Asymptomatic,138,234,No,Ventricular Hypertrophy,160,No,0,Upsloping,0,Reversable Defect,Absent
+90,51,FEMALE,Non-Anginal,130,256,No,Ventricular Hypertrophy,149,No,0.5,Upsloping,0,Reversable Defect,Absent
+91,66,MALE,Asymptomatic,120,302,No,Ventricular Hypertrophy,151,No,0.4,Flat,0,Reversable Defect,Absent
+92,62,FEMALE,Asymptomatic,160,164,No,Ventricular Hypertrophy,145,No,6.2,Downsloping,3,Normal,Highly Likely
+93,62,MALE,Non-Anginal,130,231,No,Normal,146,No,1.8,Flat,3,Normal,Absent
+94,44,FEMALE,Non-Anginal,108,141,No,Normal,175,No,0.6,Flat,0,Reversable Defect,Absent
+95,63,FEMALE,Non-Anginal,135,252,No,Ventricular Hypertrophy,172,No,0,Upsloping,0,Reversable Defect,Absent
+96,52,MALE,Asymptomatic,128,255,No,Normal,161,Yes,0,Upsloping,1,Reversable Defect,Less Likely
+97,59,MALE,Asymptomatic,110,239,No,Ventricular Hypertrophy,142,Yes,1.2,Flat,1,Reversable Defect,Likely
+98,60,FEMALE,Asymptomatic,150,258,No,Ventricular Hypertrophy,157,No,2.6,Flat,2,Reversable Defect,Highly Likely
+99,52,MALE,Atypical Angina,134,201,No,Normal,158,No,0.8,Upsloping,1,Reversable Defect,Absent
+100,48,MALE,Asymptomatic,122,222,No,Ventricular Hypertrophy,186,No,0,Upsloping,0,Reversable Defect,Absent
+101,45,MALE,Asymptomatic,115,260,No,Ventricular Hypertrophy,185,No,0,Upsloping,0,Reversable Defect,Absent
+102,34,MALE,Typical Angina,118,182,No,Ventricular Hypertrophy,174,No,0,Upsloping,0,Reversable Defect,Absent
+103,57,FEMALE,Asymptomatic,128,303,No,Ventricular Hypertrophy,159,No,0,Upsloping,1,Reversable Defect,Absent
+104,71,FEMALE,Non-Anginal,110,265,Yes,Ventricular Hypertrophy,130,No,0,Upsloping,1,Reversable Defect,Absent
+105,49,MALE,Non-Anginal,120,188,No,Normal,139,No,2,Flat,3,Normal,Highly Likely
+106,54,MALE,Atypical Angina,108,309,No,Normal,156,No,0,Upsloping,0,Reversable Defect,Absent
+107,59,MALE,Asymptomatic,140,177,No,Normal,162,Yes,0,Upsloping,1,Reversable Defect,Likely
+108,57,MALE,Non-Anginal,128,229,No,Ventricular Hypertrophy,150,No,0.4,Flat,1,Reversable Defect,Less Likely
+109,61,MALE,Asymptomatic,120,260,No,Normal,140,Yes,3.6,Flat,1,Reversable Defect,Likely
+110,39,MALE,Asymptomatic,118,219,No,Normal,140,No,1.2,Flat,0,Reversable Defect,Highly Likely
+111,61,FEMALE,Asymptomatic,145,307,No,Ventricular Hypertrophy,146,Yes,1,Flat,0,Reversable Defect,Less Likely
+112,56,MALE,Asymptomatic,125,249,Yes,Ventricular Hypertrophy,144,Yes,1.2,Flat,1,Reversable Defect,Less Likely
+113,52,MALE,Typical Angina,118,186,No,Ventricular Hypertrophy,190,No,0,Flat,0,Reversable Defect,Absent
+114,43,FEMALE,Asymptomatic,132,341,Yes,Ventricular Hypertrophy,136,Yes,3,Flat,0,Reversable Defect,Likely
+115,62,FEMALE,Non-Anginal,130,263,No,Normal,97,No,1.2,Flat,1,Reversable Defect,Likely
+116,41,MALE,Atypical Angina,135,203,No,Normal,132,No,0,Flat,0,Reversable Defect,Absent
+117,58,MALE,Non-Anginal,140,211,Yes,Ventricular Hypertrophy,165,No,0,Upsloping,0,Reversable Defect,Absent
+118,35,FEMALE,Asymptomatic,138,183,No,Normal,182,No,1.4,Upsloping,0,Reversable Defect,Absent
+119,63,MALE,Asymptomatic,130,330,Yes,Ventricular Hypertrophy,132,Yes,1.8,Upsloping,3,Normal,Highly Likely
+120,65,MALE,Asymptomatic,135,254,No,Ventricular Hypertrophy,127,No,2.8,Flat,1,Reversable Defect,Likely
+121,48,MALE,Asymptomatic,130,256,Yes,Ventricular Hypertrophy,150,Yes,0,Upsloping,2,Reversable Defect,Highly Likely
+122,63,FEMALE,Asymptomatic,150,407,No,Ventricular Hypertrophy,154,No,4,Flat,3,Normal,Present
+123,51,MALE,Non-Anginal,100,222,No,Normal,143,Yes,1.2,Flat,0,Reversable Defect,Absent
+124,55,MALE,Asymptomatic,140,217,No,Normal,111,Yes,5.6,Downsloping,0,Reversable Defect,Highly Likely
+125,65,MALE,Typical Angina,138,282,Yes,Ventricular Hypertrophy,174,No,1.4,Flat,1,Reversable Defect,Less Likely
+126,45,FEMALE,Atypical Angina,130,234,No,Ventricular Hypertrophy,175,No,0.6,Flat,0,Reversable Defect,Absent
+127,56,FEMALE,Asymptomatic,200,288,Yes,Ventricular Hypertrophy,133,Yes,4,Downsloping,2,Reversable Defect,Highly Likely
+128,54,MALE,Asymptomatic,110,239,No,Normal,126,Yes,2.8,Flat,1,Reversable Defect,Highly Likely
+129,44,MALE,Atypical Angina,120,220,No,Normal,170,No,0,Upsloping,0,Reversable Defect,Absent
+130,62,FEMALE,Asymptomatic,124,209,No,Normal,163,No,0,Upsloping,0,Reversable Defect,Absent
+131,54,MALE,Non-Anginal,120,258,No,Ventricular Hypertrophy,147,No,0.4,Flat,0,Reversable Defect,Absent
+132,51,MALE,Non-Anginal,94,227,No,Normal,154,Yes,0,Upsloping,1,Reversable Defect,Absent
+133,29,MALE,Atypical Angina,130,204,No,Ventricular Hypertrophy,202,No,0,Upsloping,0,Reversable Defect,Absent
+134,51,MALE,Asymptomatic,140,261,No,Ventricular Hypertrophy,186,Yes,0,Upsloping,0,Reversable Defect,Absent
+135,43,FEMALE,Non-Anginal,122,213,No,Normal,165,No,0.2,Flat,0,Reversable Defect,Absent
+136,55,FEMALE,Atypical Angina,135,250,No,Ventricular Hypertrophy,161,No,1.4,Flat,0,Reversable Defect,Absent
+137,70,MALE,Asymptomatic,145,174,No,Normal,125,Yes,2.6,Downsloping,0,Reversable Defect,Present
+138,62,MALE,Atypical Angina,120,281,No,Ventricular Hypertrophy,103,No,1.4,Flat,1,Reversable Defect,Highly Likely
+139,35,MALE,Asymptomatic,120,198,No,Normal,130,Yes,1.6,Flat,0,Reversable Defect,Less Likely
+140,51,MALE,Non-Anginal,125,245,Yes,Ventricular Hypertrophy,166,No,2.4,Flat,0,Reversable Defect,Absent
+141,59,MALE,Atypical Angina,140,221,No,Normal,164,Yes,0,Upsloping,0,Reversable Defect,Absent
+142,59,MALE,Typical Angina,170,288,No,Ventricular Hypertrophy,159,No,0.2,Flat,0,Reversable Defect,Less Likely
+143,52,MALE,Atypical Angina,128,205,Yes,Normal,184,No,0,Upsloping,0,Reversable Defect,Absent
+144,64,MALE,Non-Anginal,125,309,No,Normal,131,Yes,1.8,Flat,0,Reversable Defect,Less Likely
+145,58,MALE,Non-Anginal,105,240,No,Ventricular Hypertrophy,154,Yes,0.6,Flat,0,Reversable Defect,Absent
+146,47,MALE,Non-Anginal,108,243,No,Normal,152,No,0,Upsloping,0,Reversable Defect,Less Likely
+147,57,MALE,Asymptomatic,165,289,Yes,Ventricular Hypertrophy,124,No,1,Flat,3,Normal,Present
+148,41,MALE,Non-Anginal,112,250,No,Normal,179,No,0,Upsloping,0,Reversable Defect,Absent
+149,45,MALE,Atypical Angina,128,308,No,Ventricular Hypertrophy,170,No,0,Upsloping,0,Reversable Defect,Absent
+150,60,FEMALE,Non-Anginal,102,318,No,Normal,160,No,0,Upsloping,1,Reversable Defect,Absent
+151,52,MALE,Typical Angina,152,298,Yes,Normal,178,No,1.2,Flat,0,Reversable Defect,Absent
+152,42,FEMALE,Asymptomatic,102,265,No,Ventricular Hypertrophy,122,No,0.6,Flat,0,Reversable Defect,Absent
+153,67,FEMALE,Non-Anginal,115,564,No,Ventricular Hypertrophy,160,No,1.6,Flat,0,Reversable Defect,Absent
+154,55,MALE,Asymptomatic,160,289,No,Ventricular Hypertrophy,145,Yes,0.8,Flat,1,Reversable Defect,Present
+155,64,MALE,Asymptomatic,120,246,No,Ventricular Hypertrophy,96,Yes,2.2,Downsloping,1,Reversable Defect,Highly Likely
+156,70,MALE,Asymptomatic,130,322,No,Ventricular Hypertrophy,109,No,2.4,Flat,3,Normal,Less Likely
+157,51,MALE,Asymptomatic,140,299,No,Normal,173,Yes,1.6,Upsloping,0,Reversable Defect,Less Likely
+158,58,MALE,Asymptomatic,125,300,No,Ventricular Hypertrophy,171,No,0,Upsloping,2,Reversable Defect,Less Likely
+159,60,MALE,Asymptomatic,140,293,No,Ventricular Hypertrophy,170,No,1.2,Flat,2,Reversable Defect,Likely
+160,68,MALE,Non-Anginal,118,277,No,Normal,151,No,1,Upsloping,1,Reversable Defect,Absent
+161,46,MALE,Atypical Angina,101,197,Yes,Normal,156,No,0,Upsloping,0,Reversable Defect,Absent
+162,77,MALE,Asymptomatic,125,304,No,Ventricular Hypertrophy,162,Yes,0,Upsloping,3,Normal,Present
+163,54,FEMALE,Non-Anginal,110,214,No,Normal,158,No,1.6,Flat,0,Reversable Defect,Absent
+164,58,FEMALE,Asymptomatic,100,248,No,Ventricular Hypertrophy,122,No,1,Flat,0,Reversable Defect,Absent
+165,48,MALE,Non-Anginal,124,255,Yes,Normal,175,No,0,Upsloping,2,Reversable Defect,Absent
+166,57,MALE,Asymptomatic,132,207,No,Normal,168,Yes,0,Upsloping,0,Reversable Defect,Absent
+167,52,MALE,Non-Anginal,138,223,No,Normal,169,No,0,Upsloping,?,Reversable Defect,Absent
+168,54,FEMALE,Atypical Angina,132,288,Yes,Ventricular Hypertrophy,159,Yes,0,Upsloping,1,Reversable Defect,Absent
+169,35,MALE,Asymptomatic,126,282,No,Ventricular Hypertrophy,156,Yes,0,Upsloping,0,Reversable Defect,Less Likely
+170,45,FEMALE,Atypical Angina,112,160,No,Normal,138,No,0,Flat,0,Reversable Defect,Absent
+171,70,MALE,Non-Anginal,160,269,No,Normal,112,Yes,2.9,Flat,1,Reversable Defect,Highly Likely
+172,53,MALE,Asymptomatic,142,226,No,Ventricular Hypertrophy,111,Yes,0,Upsloping,0,Reversable Defect,Absent
+173,59,FEMALE,Asymptomatic,174,249,No,Normal,143,Yes,0,Flat,0,Reversable Defect,Less Likely
+174,62,FEMALE,Asymptomatic,140,394,No,Ventricular Hypertrophy,157,No,1.2,Flat,0,Reversable Defect,Absent
+175,64,MALE,Asymptomatic,145,212,No,Ventricular Hypertrophy,132,No,2,Flat,2,Reversable Defect,Present
+176,57,MALE,Asymptomatic,152,274,No,Normal,88,Yes,1.2,Flat,1,Reversable Defect,Less Likely
+177,52,MALE,Asymptomatic,108,233,Yes,Normal,147,No,0.1,Upsloping,3,Normal,Absent
+178,56,MALE,Asymptomatic,132,184,No,Ventricular Hypertrophy,105,Yes,2.1,Flat,1,Reversable Defect,Less Likely
+179,43,MALE,Non-Anginal,130,315,No,Normal,162,No,1.9,Upsloping,1,Reversable Defect,Absent
+180,53,MALE,Non-Anginal,130,246,Yes,Ventricular Hypertrophy,173,No,0,Upsloping,3,Normal,Absent
+181,48,MALE,Asymptomatic,124,274,No,Ventricular Hypertrophy,166,No,0.5,Flat,0,Reversable Defect,Highly Likely
+182,56,FEMALE,Asymptomatic,134,409,No,Ventricular Hypertrophy,150,Yes,1.9,Flat,2,Reversable Defect,Likely
+183,42,MALE,Typical Angina,148,244,No,Ventricular Hypertrophy,178,No,0.8,Upsloping,2,Reversable Defect,Absent
+184,59,MALE,Typical Angina,178,270,No,Ventricular Hypertrophy,145,No,4.2,Downsloping,0,Reversable Defect,Absent
+185,60,FEMALE,Asymptomatic,158,305,No,Ventricular Hypertrophy,161,No,0,Upsloping,0,Reversable Defect,Less Likely
+186,63,FEMALE,Atypical Angina,140,195,No,Normal,179,No,0,Upsloping,2,Reversable Defect,Absent
+187,42,MALE,Non-Anginal,120,240,Yes,Normal,194,No,0.8,Downsloping,0,Reversable Defect,Absent
+188,66,MALE,Atypical Angina,160,246,No,Normal,120,Yes,0,Flat,3,Normal,Likely
+189,54,MALE,Atypical Angina,192,283,No,Ventricular Hypertrophy,195,No,0,Upsloping,1,Reversable Defect,Less Likely
+190,69,MALE,Non-Anginal,140,254,No,Ventricular Hypertrophy,146,No,2,Flat,3,Normal,Likely
+191,50,MALE,Non-Anginal,129,196,No,Normal,163,No,0,Upsloping,0,Reversable Defect,Absent
+192,51,MALE,Asymptomatic,140,298,No,Normal,122,Yes,4.2,Flat,3,Normal,Highly Likely
+193,43,MALE,Asymptomatic,132,247,Yes,Ventricular Hypertrophy,143,Yes,0.1,Flat,?,Reversable Defect,Less Likely
+194,62,FEMALE,Asymptomatic,138,294,Yes,Normal,106,No,1.9,Flat,3,Normal,Likely
+195,68,FEMALE,Non-Anginal,120,211,No,Ventricular Hypertrophy,115,No,1.5,Flat,0,Reversable Defect,Absent
+196,67,MALE,Asymptomatic,100,299,No,Ventricular Hypertrophy,125,Yes,0.9,Flat,2,Reversable Defect,Highly Likely
+197,69,MALE,Typical Angina,160,234,Yes,Ventricular Hypertrophy,131,No,0.1,Flat,1,Reversable Defect,Absent
+198,45,FEMALE,Asymptomatic,138,236,No,Ventricular Hypertrophy,152,Yes,0.2,Flat,0,Reversable Defect,Absent
+199,50,FEMALE,Atypical Angina,120,244,No,Normal,162,No,1.1,Upsloping,0,Reversable Defect,Absent
+200,59,MALE,Typical Angina,160,273,No,Ventricular Hypertrophy,125,No,0,Upsloping,0,Reversable Defect,Less Likely
+201,50,FEMALE,Asymptomatic,110,254,No,Ventricular Hypertrophy,159,No,0,Upsloping,0,Reversable Defect,Absent
+202,64,FEMALE,Asymptomatic,180,325,No,Normal,154,Yes,0,Upsloping,0,Reversable Defect,Absent
+203,57,MALE,Non-Anginal,150,126,Yes,Normal,173,No,0.2,Upsloping,1,Reversable Defect,Absent
+204,64,FEMALE,Non-Anginal,140,313,No,Normal,133,No,0.2,Upsloping,0,Reversable Defect,Absent
+205,43,MALE,Asymptomatic,110,211,No,Normal,161,No,0,Upsloping,0,Reversable Defect,Absent
+206,45,MALE,Asymptomatic,142,309,No,Ventricular Hypertrophy,147,Yes,0,Flat,3,Normal,Highly Likely
+207,58,MALE,Asymptomatic,128,259,No,Ventricular Hypertrophy,130,Yes,3,Flat,2,Reversable Defect,Highly Likely
+208,50,MALE,Asymptomatic,144,200,No,Ventricular Hypertrophy,126,Yes,0.9,Flat,0,Reversable Defect,Highly Likely
+209,55,MALE,Atypical Angina,130,262,No,Normal,155,No,0,Upsloping,0,Reversable Defect,Absent
+210,62,FEMALE,Asymptomatic,150,244,No,Normal,154,Yes,1.4,Flat,0,Reversable Defect,Less Likely
+211,37,FEMALE,Non-Anginal,120,215,No,Normal,170,No,0,Upsloping,0,Reversable Defect,Absent
+212,38,MALE,Typical Angina,120,231,No,Normal,182,Yes,3.8,Flat,0,Reversable Defect,Present
+213,41,MALE,Non-Anginal,130,214,No,Ventricular Hypertrophy,168,No,2,Flat,0,Reversable Defect,Absent
+214,66,FEMALE,Asymptomatic,178,228,Yes,Normal,165,Yes,1,Flat,2,Reversable Defect,Highly Likely
+215,52,MALE,Asymptomatic,112,230,No,Normal,160,No,0,Upsloping,1,Reversable Defect,Less Likely
+216,56,MALE,Typical Angina,120,193,No,Ventricular Hypertrophy,162,No,1.9,Flat,0,Reversable Defect,Absent
+217,46,FEMALE,Atypical Angina,105,204,No,Normal,172,No,0,Upsloping,0,Reversable Defect,Absent
+218,46,FEMALE,Asymptomatic,138,243,No,Ventricular Hypertrophy,152,Yes,0,Flat,0,Reversable Defect,Absent
+219,64,FEMALE,Asymptomatic,130,303,No,Normal,122,No,2,Flat,2,Reversable Defect,Absent
+220,59,MALE,Asymptomatic,138,271,No,Ventricular Hypertrophy,182,No,0,Upsloping,0,Reversable Defect,Absent
+221,41,FEMALE,Non-Anginal,112,268,No,Ventricular Hypertrophy,172,Yes,0,Upsloping,0,Reversable Defect,Absent
+222,54,FEMALE,Non-Anginal,108,267,No,Ventricular Hypertrophy,167,No,0,Upsloping,0,Reversable Defect,Absent
+223,39,FEMALE,Non-Anginal,94,199,No,Normal,179,No,0,Upsloping,0,Reversable Defect,Absent
+224,53,MALE,Asymptomatic,123,282,No,Normal,95,Yes,2,Flat,2,Reversable Defect,Highly Likely
+225,63,FEMALE,Asymptomatic,108,269,No,Normal,169,Yes,1.8,Flat,2,Reversable Defect,Less Likely
+226,34,FEMALE,Atypical Angina,118,210,No,Normal,192,No,0.7,Upsloping,0,Reversable Defect,Absent
+227,47,MALE,Asymptomatic,112,204,No,Normal,143,No,0.1,Upsloping,0,Reversable Defect,Absent
+228,67,FEMALE,Non-Anginal,152,277,No,Normal,172,No,0,Upsloping,1,Reversable Defect,Absent
+229,54,MALE,Asymptomatic,110,206,No,Ventricular Hypertrophy,108,Yes,0,Flat,1,Reversable Defect,Highly Likely
+230,66,MALE,Asymptomatic,112,212,No,Ventricular Hypertrophy,132,Yes,0.1,Upsloping,1,Reversable Defect,Likely
+231,52,FEMALE,Non-Anginal,136,196,No,Ventricular Hypertrophy,169,No,0.1,Flat,0,Reversable Defect,Absent
+232,55,FEMALE,Asymptomatic,180,327,No,ST-T Wave Abnormality,117,Yes,3.4,Flat,0,Reversable Defect,Likely
+233,49,MALE,Non-Anginal,118,149,No,Ventricular Hypertrophy,126,No,0.8,Upsloping,3,Normal,Less Likely
+234,74,FEMALE,Atypical Angina,120,269,No,Ventricular Hypertrophy,121,Yes,0.2,Upsloping,1,Reversable Defect,Absent
+235,54,FEMALE,Non-Anginal,160,201,No,Normal,163,No,0,Upsloping,1,Reversable Defect,Absent
+236,54,MALE,Asymptomatic,122,286,No,Ventricular Hypertrophy,116,Yes,3.2,Flat,2,Reversable Defect,Highly Likely
+237,56,MALE,Asymptomatic,130,283,Yes,Ventricular Hypertrophy,103,Yes,1.6,Downsloping,0,Reversable Defect,Likely
+238,46,MALE,Asymptomatic,120,249,No,Ventricular Hypertrophy,144,No,0.8,Upsloping,0,Reversable Defect,Less Likely
+239,49,FEMALE,Atypical Angina,134,271,No,Normal,162,No,0,Flat,0,Reversable Defect,Absent
+240,42,MALE,Atypical Angina,120,295,No,Normal,162,No,0,Upsloping,0,Reversable Defect,Absent
+241,41,MALE,Atypical Angina,110,235,No,Normal,153,No,0,Upsloping,0,Reversable Defect,Absent
+242,41,FEMALE,Atypical Angina,126,306,No,Normal,163,No,0,Upsloping,0,Reversable Defect,Absent
+243,49,FEMALE,Asymptomatic,130,269,No,Normal,163,No,0,Upsloping,0,Reversable Defect,Absent
+244,61,MALE,Typical Angina,134,234,No,Normal,145,No,2.6,Flat,2,Reversable Defect,Likely
+245,60,FEMALE,Non-Anginal,120,178,Yes,Normal,96,No,0,Upsloping,0,Reversable Defect,Absent
+246,67,MALE,Asymptomatic,120,237,No,Normal,71,No,1,Flat,0,Reversable Defect,Likely
+247,58,MALE,Asymptomatic,100,234,No,Normal,156,No,0.1,Upsloping,1,Reversable Defect,Likely
+248,47,MALE,Asymptomatic,110,275,No,Ventricular Hypertrophy,118,Yes,1,Flat,1,Reversable Defect,Less Likely
+249,52,MALE,Asymptomatic,125,212,No,Normal,168,No,1,Upsloping,2,Reversable Defect,Highly Likely
+250,62,MALE,Atypical Angina,128,208,Yes,Ventricular Hypertrophy,140,No,0,Upsloping,0,Reversable Defect,Absent
+251,57,MALE,Asymptomatic,110,201,No,Normal,126,Yes,1.5,Flat,0,Reversable Defect,Absent
+252,58,MALE,Asymptomatic,146,218,No,Normal,105,No,2,Flat,1,Reversable Defect,Less Likely
+253,64,MALE,Asymptomatic,128,263,No,Normal,105,Yes,0.2,Flat,1,Reversable Defect,Absent
+254,51,FEMALE,Non-Anginal,120,295,No,Ventricular Hypertrophy,157,No,0.6,Upsloping,0,Reversable Defect,Absent
+255,43,MALE,Asymptomatic,115,303,No,Normal,181,No,1.2,Flat,0,Reversable Defect,Absent
+256,42,FEMALE,Non-Anginal,120,209,No,Normal,173,No,0,Flat,0,Reversable Defect,Absent
+257,67,FEMALE,Asymptomatic,106,223,No,Normal,142,No,0.3,Upsloping,2,Reversable Defect,Absent
+258,76,FEMALE,Non-Anginal,140,197,No,ST-T Wave Abnormality,116,No,1.1,Flat,0,Reversable Defect,Absent
+259,70,MALE,Atypical Angina,156,245,No,Ventricular Hypertrophy,143,No,0,Upsloping,0,Reversable Defect,Absent
+260,57,MALE,Atypical Angina,124,261,No,Normal,141,No,0.3,Upsloping,0,Reversable Defect,Less Likely
+261,44,FEMALE,Non-Anginal,118,242,No,Normal,149,No,0.3,Flat,1,Reversable Defect,Absent
+262,58,FEMALE,Atypical Angina,136,319,Yes,Ventricular Hypertrophy,152,No,0,Upsloping,2,Reversable Defect,Highly Likely
+263,60,FEMALE,Typical Angina,150,240,No,Normal,171,No,0.9,Upsloping,0,Reversable Defect,Absent
+264,44,MALE,Non-Anginal,120,226,No,Normal,169,No,0,Upsloping,0,Reversable Defect,Absent
+265,61,MALE,Asymptomatic,138,166,No,Ventricular Hypertrophy,125,Yes,3.6,Flat,1,Reversable Defect,Present
+266,42,MALE,Asymptomatic,136,315,No,Normal,125,Yes,1.8,Flat,0,Reversable Defect,Likely
+267,52,MALE,Asymptomatic,128,204,Yes,Normal,156,Yes,1,Flat,0,Reversable Defect,Likely
+268,59,MALE,Non-Anginal,126,218,Yes,Normal,134,No,2.2,Flat,1,Reversable Defect,Likely
+269,40,MALE,Asymptomatic,152,223,No,Normal,181,No,0,Upsloping,0,Reversable Defect,Less Likely
+270,42,MALE,Non-Anginal,130,180,No,Normal,150,No,0,Upsloping,0,Reversable Defect,Absent
+271,61,MALE,Asymptomatic,140,207,No,Ventricular Hypertrophy,138,Yes,1.9,Upsloping,1,Reversable Defect,Less Likely
+272,66,MALE,Asymptomatic,160,228,No,Ventricular Hypertrophy,138,No,2.3,Upsloping,0,Reversable Defect,Absent
+273,46,MALE,Asymptomatic,140,311,No,Normal,120,Yes,1.8,Flat,2,Reversable Defect,Likely
+274,71,FEMALE,Asymptomatic,112,149,No,Normal,125,No,1.6,Flat,0,Reversable Defect,Absent
+275,59,MALE,Typical Angina,134,204,No,Normal,162,No,0.8,Upsloping,2,Reversable Defect,Less Likely
+276,64,MALE,Typical Angina,170,227,No,Ventricular Hypertrophy,155,No,0.6,Flat,0,Reversable Defect,Absent
+277,66,FEMALE,Non-Anginal,146,278,No,Ventricular Hypertrophy,152,No,0,Flat,1,Reversable Defect,Absent
+278,39,FEMALE,Non-Anginal,138,220,No,Normal,152,No,0,Flat,0,Reversable Defect,Absent
+279,57,MALE,Atypical Angina,154,232,No,Ventricular Hypertrophy,164,No,0,Upsloping,1,Reversable Defect,Less Likely
+280,58,FEMALE,Asymptomatic,130,197,No,Normal,131,No,0.6,Flat,0,Reversable Defect,Absent
+281,57,MALE,Asymptomatic,110,335,No,Normal,143,Yes,3,Flat,1,Reversable Defect,Likely
+282,47,MALE,Non-Anginal,130,253,No,Normal,179,No,0,Upsloping,0,Reversable Defect,Absent
+283,55,FEMALE,Asymptomatic,128,205,No,ST-T Wave Abnormality,130,Yes,2,Flat,1,Reversable Defect,Highly Likely
+284,35,MALE,Atypical Angina,122,192,No,Normal,174,No,0,Upsloping,0,Reversable Defect,Absent
+285,61,MALE,Asymptomatic,148,203,No,Normal,161,No,0,Upsloping,1,Reversable Defect,Likely
+286,58,MALE,Asymptomatic,114,318,No,ST-T Wave Abnormality,140,No,4.4,Downsloping,3,Normal,Present
+287,58,FEMALE,Asymptomatic,170,225,Yes,Ventricular Hypertrophy,146,Yes,2.8,Flat,2,Reversable Defect,Likely
+288,58,MALE,Atypical Angina,125,220,No,Normal,144,No,0.4,Flat,?,Reversable Defect,Absent
+289,56,MALE,Atypical Angina,130,221,No,Ventricular Hypertrophy,163,No,0,Upsloping,0,Reversable Defect,Absent
+290,56,MALE,Atypical Angina,120,240,No,Normal,169,No,0,Downsloping,0,Reversable Defect,Absent
+291,67,MALE,Non-Anginal,152,212,No,Ventricular Hypertrophy,150,No,0.8,Flat,0,Reversable Defect,Less Likely
+292,55,FEMALE,Atypical Angina,132,342,No,Normal,166,No,1.2,Upsloping,0,Reversable Defect,Absent
+293,44,MALE,Asymptomatic,120,169,No,Normal,144,Yes,2.8,Downsloping,0,Reversable Defect,Likely
+294,63,MALE,Asymptomatic,140,187,No,Ventricular Hypertrophy,144,Yes,4,Upsloping,2,Reversable Defect,Likely
+295,63,FEMALE,Asymptomatic,124,197,No,Normal,136,Yes,0,Flat,0,Reversable Defect,Less Likely
+296,41,MALE,Atypical Angina,120,157,No,Normal,182,No,0,Upsloping,0,Reversable Defect,Absent
+297,59,MALE,Asymptomatic,164,176,Yes,Ventricular Hypertrophy,90,No,1,Flat,2,Reversable Defect,Highly Likely
+298,57,FEMALE,Asymptomatic,140,241,No,Normal,123,Yes,0.2,Flat,0,Reversable Defect,Less Likely
+299,45,MALE,Typical Angina,110,264,No,Normal,132,No,1.2,Flat,0,Reversable Defect,Less Likely
+300,68,MALE,Asymptomatic,144,193,Yes,Normal,141,No,3.4,Flat,2,Reversable Defect,Likely
+301,57,MALE,Asymptomatic,130,131,No,Normal,115,Yes,1.2,Flat,1,Reversable Defect,Highly Likely
+302,57,FEMALE,Atypical Angina,130,236,No,Ventricular Hypertrophy,174,No,0,Flat,1,Reversable Defect,Less Likely
+303,38,MALE,Non-Anginal,138,175,No,Normal,173,No,0,Upsloping,?,Reversable Defect,Absent
